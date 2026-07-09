@@ -45,8 +45,6 @@ img { max-width: 100%; display: block; }
   padding: 0 24px;
 }
 
-/* ── Header ─────────────────────────────────────────────── */
-
 header.site {
   position: sticky;
   top: 0;
@@ -91,8 +89,6 @@ nav.site-nav a.active {
   color: var(--bone);
   border-bottom-color: var(--gold);
 }
-
-/* ── Hero ───────────────────────────────────────────────── */
 
 .hero {
   padding: 64px 0 56px;
@@ -159,8 +155,6 @@ nav.site-nav a.active {
 }
 .btn.ghost:hover { border-color: var(--gold); }
 
-/* ── The stamp: signature hero element ─────────────────── */
-
 .stamp-wrap {
   display: flex;
   justify-content: center;
@@ -226,8 +220,6 @@ nav.site-nav a.active {
   .stamp { animation: none; opacity: 1; transform: scale(1) rotate(-6deg); }
 }
 
-/* ── Section headings ───────────────────────────────────── */
-
 .section {
   padding: 56px 0;
 }
@@ -257,15 +249,10 @@ nav.site-nav a.active {
   font-family: var(--mono);
 }
 
-/* ── Product grid & Price-tag card (signature motif) ────── */
-
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
   gap: 22px;
-}
-
-.grid {
   perspective: 1200px;
 }
 
@@ -284,7 +271,6 @@ nav.site-nav a.active {
 }
 
 .tag-card::before {
-  /* punch hole, like a real price tag */
   content: '';
   position: absolute;
   top: 14px;
@@ -302,7 +288,6 @@ nav.site-nav a.active {
   box-shadow: 0 24px 40px -16px rgba(0, 0, 0, 0.6);
 }
 
-/* Fallback simples para quem usa touch/reduced-motion — sem JS de tilt */
 @media (hover: none) {
   .tag-card:hover { transform: none; }
 }
@@ -391,8 +376,6 @@ nav.site-nav a.active {
 }
 .tag-card .cta:hover { background: #f4bc5c; }
 
-/* ── Blog cards ──────────────────────────────────────────── */
-
 .blog-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -452,8 +435,6 @@ nav.site-nav a.active {
 }
 .blog-card .read::after { content: ' →'; color: var(--gold); }
 
-/* ── Empty state ─────────────────────────────────────────── */
-
 .empty {
   text-align: center;
   padding: 60px 20px;
@@ -463,8 +444,6 @@ nav.site-nav a.active {
   border: 1.5px dashed rgba(127, 165, 147, 0.3);
   border-radius: var(--radius);
 }
-
-/* ── Footer ──────────────────────────────────────────────── */
 
 footer.site {
   border-top: 1px solid rgba(127, 165, 147, 0.2);
@@ -484,8 +463,6 @@ footer.site p {
   font-family: var(--mono);
   margin: 0;
 }
-
-/* ── Article page ────────────────────────────────────────── */
 
 .article {
   max-width: 720px;
@@ -526,8 +503,6 @@ footer.site p {
 .article-body strong { color: var(--gold); }
 .article-body a { color: var(--gold); text-decoration: underline; text-underline-offset: 3px; }
 
-/* ── Responsive ──────────────────────────────────────────── */
-
 @media (max-width: 860px) {
   .hero-grid { grid-template-columns: 1fr; gap: 32px; }
   .stamp-wrap { order: -1; }
@@ -542,7 +517,6 @@ footer.site p {
   nav.site-nav a:not(.always) { display: none; }
 }
 
-/* focus visibility */
 a:focus-visible, button:focus-visible {
   outline: 2px solid var(--gold);
   outline-offset: 2px;
