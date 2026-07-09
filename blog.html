@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Blog — All Shoop</title>
+<meta name="description" content="Guias de compra, comparações e dicas para comprar melhor na AliExpress — escrito para quem compra em Portugal, Angola e Moçambique.">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="site">
+  <div class="wrap">
+    <a href="index.html" class="logo">All<span class="dot">Shoop</span></a>
+    <nav class="site-nav">
+      <a href="index.html">Achados</a>
+      <a href="blog.html" class="active">Blog</a>
+      <a href="index.html#sobre" class="always">Sobre</a>
+    </nav>
+  </div>
+</header>
+
+<section class="section" style="padding-top:56px">
+  <div class="wrap">
+    <div class="section-head">
+      <h2>Blog</h2>
+      <span class="sub">guias de compra e comparações</span>
+    </div>
+    <div class="blog-grid" id="blog-grid">
+      <div class="empty">A carregar artigos…</div>
+    </div>
+  </div>
+</section>
+
+<footer class="site">
+  <div class="wrap">
+    <p>© <span id="year"></span> All Shoop.</p>
+    <p>Contém links de afiliado AliExpress.</p>
+  </div>
+</footer>
+
+<script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+<script src="assets/script.js"></script>
+</body>
+</html>
