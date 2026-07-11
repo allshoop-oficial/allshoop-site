@@ -96,8 +96,11 @@
       const titulo = a.titulo || a.title || 'Artigo';
       const resumo = a.resumo || a.excerto || a.excerpt || a.descricao || '';
       const categoria = a.categoria || a.kicker || 'All Shoop';
-      const link = a.link || a.slug || a.url || 'blog.html';
-      const href = link.endsWith('.html') || link.startsWith('http') ? link : `${link}.html`;
+      const bruto = a.link || a.slug || a.url || 'blog.html';
+      // Os artigos são publicados dentro da pasta blog/ (ex: blog/meu-artigo.html)
+      const href = bruto.startsWith('http') || bruto.startsWith('blog/') || bruto.endsWith('.html') && bruto.includes('/')
+        ? bruto
+        : `blog/${bruto}${bruto.endsWith('.html') ? '' : '.html'}`;
 
       return `
         <a href="${href}" class="blog-card">
