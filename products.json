@@ -1,4 +1,104 @@
 {
-  "atualizadoEm": "",
-  "produtos": []
+  "atualizadoEm": "2026-07-11T10:45:49.055Z",
+  "produtos": [
+    {
+      "id": 1005007190560222,
+      "titulo": "2024 Black V12 Block Roadster RC Tech Racer 1:14DIY Roadster building block assembly Block car toy birthday gift （1000+granule）",
+      "preco": 28.05,
+      "precoOriginal": 93.49,
+      "desconto": 70,
+      "avaliacao": "87.0%",
+      "categoria": "Gadgets Tech",
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S4dd2265a3d9146ed84ed49e5e687a439P.jpg",
+      "linkAfiliado": "https://www.aliexpress.com/store/1102626020"
+    },
+    {
+      "id": 1005009320862046,
+      "titulo": "2025 AI Voice Video Call Real-time Translation Intelligent Question Answering Smart Glasses UV400 Protection Sport BT Sunglasses",
+      "preco": 10.15,
+      "precoOriginal": 20.3,
+      "desconto": 49,
+      "avaliacao": "79.1%",
+      "categoria": "Gadgets Tech",
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S5418d42d830b43508891d6ef627e7db9b.jpg",
+      "linkAfiliado": "https://www.aliexpress.com/store/1103507417"
+    },
+    {
+      "id": 1005012546132354,
+      "titulo": "Garden Bird Bath Vintage Decorative BirdBath Water Bowl Bird Water Feeder Tray Wooden Bird Bath Feeder Water Bowl Bird Feeders",
+      "preco": 15.21,
+      "precoOriginal": 38.03,
+      "desconto": 60,
+      "avaliacao": null,
+      "categoria": "Casa e Jardim",
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S67f27610cdbf468ba844c9d0a98bd741A.jpg",
+      "linkAfiliado": "https://www.aliexpress.com/store/1105003884"
+    },
+    {
+      "id": 1005010373260445,
+      "titulo": "RGBW Landscape Lighting 10W with Remote Spotlight 110V 220V IP65 Waterproof for Yard Tree Lawn Garden Outdoor Christmas Light",
+      "preco": 17.56,
+      "precoOriginal": 37.35,
+      "desconto": 53,
+      "avaliacao": null,
+      "categoria": "Casa e Jardim",
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa03e115a0fe84a01af08559f1dc5ea4aX.jpg",
+      "linkAfiliado": "https://www.aliexpress.com/store/1103429207"
+    },
+    {
+      "id": 1005012633855604,
+      "titulo": "Black Hydrocolloid Pimple Patches, Cute Cloud Shape Acne Spot Stickers, Ultra-Thin Blemish Cover Patches for Daily Skincare",
+      "preco": 5.03,
+      "precoOriginal": 12.15,
+      "desconto": 58,
+      "avaliacao": null,
+      "categoria": "Beleza e Cuidado",
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S6794dd1616f64470a9dfc4d4c161877eF.png",
+      "linkAfiliado": "https://www.aliexpress.com/store/1104921035"
+    },
+    {
+      "id": 1005011937550659,
+      "titulo": "Yoga Clothes Stand Up Collar Jacket Outdoor Sports Long Sleeved Women Slim Quick Dry Zipper Cardigan Running Fitness Jacket Top",
+      "preco": 15.7,
+      "precoOriginal": 32.7,
+      "desconto": 52,
+      "avaliacao": "100.0%",
+      "categoria": "Desporto e Fitness",
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sc299776316a04dddb310a4d60d75a380s.png",
+      "linkAfiliado": "https://www.aliexpress.com/store/1105320419"
+    },
+    {
+      "id": 1005012025081319,
+      "titulo": "Women Quick-drying Breathable Tight-fitting Yoga Clothes Soft Running Sports Long-sleeved Tops Training Fitness T-shirts",
+      "preco": 22.53,
+      "precoOriginal": 45.06,
+      "desconto": 50,
+      "avaliacao": null,
+      "categoria": "Desporto e Fitness",
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sc2e385ad54c44c73bb64dc1b169e8098v.jpg",
+      "linkAfiliado": "https://www.aliexpress.com/store/1105316679"
+    },
+    {
+      "id": 1005012213057635,
+      "titulo": "Electric Screwdriver Bits 22 Pieces Magnetic Drilling Tips With Storage Base Ergonomic Handle Driver Bit Set For Electronics",
+      "preco": 23.84,
+      "precoOriginal": 36.67,
+      "desconto": 35,
+      "avaliacao": null,
+      "categoria": "Eletrónica",
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Se416a43af67d4a439f2f42ac0bb2af84t.jpg",
+      "linkAfiliado": "https://www.aliexpress.com/store/3098001"
+    },
+    {
+      "id": 1005012245476548,
+      "titulo": "Mini Portable Electronic Intelligent Medicine Box, Transparent Two-compartment Design Pill Box, with Timing Reminder and Alarm",
+      "preco": 18.98,
+      "precoOriginal": 18.98,
+      "desconto": 0,
+      "avaliacao": null,
+      "categoria": "Eletrónica",
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S4d209f976e65454ea2ce83a619836cd6e.jpg",
+      "linkAfiliado": "https://www.aliexpress.com/store/911993002"
+    }
+  ]
 }
