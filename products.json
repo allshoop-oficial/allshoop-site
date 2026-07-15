@@ -1,11 +1,22 @@
 {
-  "atualizadoEm": "2026-07-14T09:25:18.693Z",
+  "atualizadoEm": "2026-07-15T09:25:46.345Z",
   "produtos": [
+    {
+      "id": 1005007190560222,
+      "titulo": "2024 Black V12 Block Roadster RC Tech Racer 1:14DIY Roadster building block assembly Block car toy birthday gift （1000+granule）",
+      "preco": 27.2,
+      "precoOriginal": 93.78,
+      "desconto": 71,
+      "avaliacao": "87.5%",
+      "categoria": "Gadgets Tech",
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S4dd2265a3d9146ed84ed49e5e687a439P.jpg",
+      "linkAfiliado": "https://www.aliexpress.com/store/1102626020"
+    },
     {
       "id": 1005006075219734,
       "titulo": "XG88 Bluetooth 5.3 Smart Glasses Sports Driving Sunglasses Outdoor HiFi Sound Call Music Quality Wireless Bluetooth Headset",
       "preco": 8.51,
-      "precoOriginal": 25.81,
+      "precoOriginal": 25.78,
       "desconto": 67,
       "avaliacao": "85.5%",
       "categoria": "Gadgets Tech",
@@ -13,21 +24,10 @@
       "linkAfiliado": "https://www.aliexpress.com/store/1102960858"
     },
     {
-      "id": 1005009320862046,
-      "titulo": "2025 AI Voice Video Call Real-time Translation Intelligent Question Answering Smart Glasses UV400 Protection Sport BT Sunglasses",
-      "preco": 10.2,
-      "precoOriginal": 20.39,
-      "desconto": 50,
-      "avaliacao": "79.1%",
-      "categoria": "Gadgets Tech",
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S5418d42d830b43508891d6ef627e7db9b.jpg",
-      "linkAfiliado": "https://www.aliexpress.com/store/1103507417"
-    },
-    {
       "id": 1005012546132354,
       "titulo": "Garden Bird Bath Vintage Decorative BirdBath Water Bowl Bird Water Feeder Tray Wooden Bird Bath Feeder Water Bowl Bird Feeders",
-      "preco": 15.28,
-      "precoOriginal": 38.2,
+      "preco": 15.25,
+      "precoOriginal": 38.14,
       "desconto": 60,
       "avaliacao": null,
       "categoria": "Casa e Jardim",
@@ -37,8 +37,8 @@
     {
       "id": 1005010373260445,
       "titulo": "RGBW Landscape Lighting 10W with Remote Spotlight 110V 220V IP65 Waterproof for Yard Tree Lawn Garden Outdoor Christmas Light",
-      "preco": 17.64,
-      "precoOriginal": 37.52,
+      "preco": 17.61,
+      "precoOriginal": 37.46,
       "desconto": 53,
       "avaliacao": null,
       "categoria": "Casa e Jardim",
@@ -48,8 +48,8 @@
     {
       "id": 1005012452158408,
       "titulo": "7/8Pcs Blackhead Remover Kit Professional Blackhead  Needle Skin Care Tools Stainless Steel Pimple Extraction Tools",
-      "preco": 3.79,
-      "precoOriginal": 7.89,
+      "preco": 3.78,
+      "precoOriginal": 7.88,
       "desconto": 52,
       "avaliacao": "100.0%",
       "categoria": "Beleza e Cuidado",
@@ -60,7 +60,7 @@
       "id": 1005012477449914,
       "titulo": "1 roll Water-based acne removal patch roll - Transparent acne covering patch, DIY cut to size, imperfection patch, waterproof fa",
       "preco": 3.71,
-      "precoOriginal": 7.42,
+      "precoOriginal": 7.41,
       "desconto": 50,
       "avaliacao": null,
       "categoria": "Beleza e Cuidado",
@@ -70,8 +70,8 @@
     {
       "id": 1005012679640542,
       "titulo": "3-piece Men's Seasonal Plus Size Solid Color Casual Vest Comfortable Round Neck Sports And Fitness Top Versatile Soft Base Shirt",
-      "preco": 7.11,
-      "precoOriginal": 21.55,
+      "preco": 7.1,
+      "precoOriginal": 21.51,
       "desconto": 67,
       "avaliacao": null,
       "categoria": "Desporto e Fitness",
@@ -79,21 +79,21 @@
       "linkAfiliado": "https://www.aliexpress.com/store/1102811558"
     },
     {
-      "id": 1005012025081319,
-      "titulo": "Women Quick-drying Breathable Tight-fitting Yoga Clothes Soft Running Sports Long-sleeved Tops Training Fitness T-shirts",
-      "preco": 17.36,
-      "precoOriginal": 36.93,
-      "desconto": 53,
+      "id": 1005012703690563,
+      "titulo": "2026 Summer Long-sleeved T-shirt Cotton Slim Breathable Pilates Yoga Top Fashion Stretch Seamless Fitness Running Sports Top",
+      "preco": 25.03,
+      "precoOriginal": 64.18,
+      "desconto": 61,
       "avaliacao": null,
       "categoria": "Desporto e Fitness",
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sc2e385ad54c44c73bb64dc1b169e8098v.jpg",
-      "linkAfiliado": "https://www.aliexpress.com/store/1105316679"
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sc31bd48fc26c446db0fb0cd20598ef4aX.jpg",
+      "linkAfiliado": "https://www.aliexpress.com/store/1105723716"
     },
     {
       "id": 1005012213057635,
       "titulo": "Electric Screwdriver Bits 22 Pieces Magnetic Drilling Tips With Storage Base Ergonomic Handle Driver Bit Set For Electronics",
-      "preco": 23.96,
-      "precoOriginal": 36.86,
+      "preco": 23.87,
+      "precoOriginal": 36.72,
       "desconto": 35,
       "avaliacao": null,
       "categoria": "Eletrónica",
@@ -103,8 +103,8 @@
     {
       "id": 1005012245476548,
       "titulo": "Mini Portable Electronic Intelligent Medicine Box, Transparent Two-compartment Design Pill Box, with Timing Reminder and Alarm",
-      "preco": 19.07,
-      "precoOriginal": 19.07,
+      "preco": 19.04,
+      "precoOriginal": 19.04,
       "desconto": 0,
       "avaliacao": null,
       "categoria": "Eletrónica",
